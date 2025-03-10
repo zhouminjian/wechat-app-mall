@@ -9,29 +9,6 @@
 - 小程序开发 [@jiulonggithub](https://github.com/orgs/EastWorld/people/jiulonggithub)
 - 接口及后台支持 [@gooking](https://github.com/gooking)
 
-期待您的加入~
-
-开发问题欢迎加QQ群一起交流 ： 479413914
-
-## 扫码体验
-
-<p>
-<img src="https://cdn.it120.cc/images/weappshop/screenshot/qrcode.jpg" width="200px">
-<img src="https://cdn.it120.cc/apifactory/2017/09/15/487409738ebb80c44eda01c46d59b20c.jpg" width="200px">
-</p>
-
-## 用户案例
-
-<p>
-<img src="https://cdn.it120.cc/apifactory/2017/09/03/697ee3f23484f96f6e86e0eea2a93a1a.jpeg" width="200px">
-<img src="https://cdn.it120.cc/apifactory/2017/06/12/448c4cc5d256aa02ddc4106399a19256.png" width="200px">
-<img src="https://cdn.it120.cc/apifactory/2017/06/21/4ae4c66856f377a8830f32a670dc0614.png" width="200px">
-<img src="https://cdn.it120.cc/apifactory/2017/08/17/f3f7ddf9a47367fde19abb6db4c21619.png" width="200px">
-<img src="https://cdn.it120.cc/apifactory/2017/08/17/413c6123f9c83e664587f1c0971ab52d.jpg" width="200px">
-<img src="https://cdn.it120.cc/apifactory/2017/08/18/83bfd6a625fe50477bbeac65e9f1d0a7.jpg" width="200px">
-<img src="https://cdn.it120.cc/apifactory/2017/08/18/742dba8ffd6e3ab0b6db92e452b6f4e4.png" width="200px">
-</p>
-
 ## 使用说明
 
 > [申请商城后台账号](https://www.it120.cc/info/wxapp/115)
@@ -111,7 +88,7 @@
 >
 > 2、输入的时候确保没有空格（复制的时候可能会多复制了空格）
 >
-> 3、在微信后台设置服务器IP地址白名单（106.14.43.122）
+> 3、在微信后台设置服务器IP地址白名单
 - 如何使用退款功能？
 > 1、后台支持针对订单指定退款多少金额；
 >
